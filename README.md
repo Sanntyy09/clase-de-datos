@@ -4,13 +4,20 @@
  en señandonos a tener mas logica y saber sobre datos dandonos 3 temas a exponer.
 
 
+
+
+
+
+
+
+
  **ESTRATEGIA INTEGRAL** 
  Esto busca que las empresas mejoren su eficiencia en la empresa, donde busca que pequeños problemas, se resuelvan
  muy rapido, no solo eso sino que mejora la eficiencia con el cliente la comunicación con la empresa,
  demas de eso mejora los tiempos de entrega en la emprea, en esta estrategia, hasta el mas minimo cambio es muy importante.
 
  
- ** ANALISIS ASINTOTICO**
+ **ANALISIS ASINTOTICO**
  Esto se puede representar como graficas ¿por que?.
  - por el simple echo de que asi es son funciones que cresen muy rapido al infino, esto signica,
  que podemos analozar un grafica que crese muy rapido, ¿ en que nos ayuda esto en la programacion?
